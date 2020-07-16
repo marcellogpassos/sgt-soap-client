@@ -1,27 +1,0 @@
-
-r	java:S117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡°ñšÿÿÿÿÿ8’Ş¢ß°.
-‚
-java:S1104"eMake arrayMovimentosVinculados a static final constant or non-public and provide accessors if needed.(¦Êİè8’Ş¢ß°.
-H
-java:S1172/"&Remove these unused method parameters.(‡°ñšÿÿÿÿÿ8’Ş¢ß°.
-€
-java:S1104"^Make seqTipoComplemento a static final constant or non-public and provide accessors if needed.(–§ºÿÿÿÿÿ8’Ş¢ß°.
-r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ”óâıÿÿÿÿ8’Ş¢ß°.
-w
-java:S1104"ZMake seqComplemento a static final constant or non-public and provide accessors if needed.(øö¶ˆ8’Ş¢ß°.
-t
-java:S3776/"RRefactor this method to reduce its Cognitive Complexity from 77 to the 15 allowed.(‡°ñšÿÿÿÿÿ8’Ş¢ß°.
-u
-java:S3776”"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(³áÕÆùÿÿÿÿ8’Ş¢ß°.
-J	java:S108)")Either remove or fill this block of code.(ƒ« ™üÿÿÿÿ8’Ş¢ß°.
-y
-java:S1104"WMake seqComplMov a static final constant or non-public and provide accessors if needed.(ªà¼Ñøÿÿÿÿ8’Ş¢ß°.
-
-java:S1186Ğ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(´Èn8’Ş¢ß°.
-}
-java:S1104"aMake arrayValoresTabelados a static final constant or non-public and provide accessors if needed.(â”§8’Ş¢ß°.
-v
-java:S1104"YMake dscObservacao a static final constant or non-public and provide accessors if needed.(•õ›‡8’Ş¢ß°.
-|
-java:S1104"ZMake dscComplemento a static final constant or non-public and provide accessors if needed.(Ä©²áûÿÿÿÿ8’Ş¢ß°.
-t	java:S116"SRename this field "__source" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÉïçùÿÿÿÿ8’Ş¢ß°.
